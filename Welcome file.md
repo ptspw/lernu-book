@@ -45,7 +45,9 @@
  1.   دانش و مهارت‌هایی را که فراگیر برای شروع موفقیت‌آمیز این واحد درسی باید از قبل داشته باشد، مشخص کن. به ارجاعات صریح یا دانش ضمنی مورد نیاز اشاره کن.
     
     
-	List item
+
+> dfdfdfdf
+> dfdfdfdfdfdf
 
 ### بخش ۲: اهداف یادگیری دقیق (Precise Learning Objectives)
 
@@ -83,5 +85,5 @@
 
 -   در یک پاراگراف کوتاه، یک ارزیابی تخصصی از روش کلی آموزش در این واحد ارائه بده. آیا رویکرد آن بیشتر ارتباطی (Communicative)، تکلیف-محور (Task-Based)، ترجمه‌ای (Grammar-Translation) یا ترکیبی است؟ نقاط قوت اصلی این رویکرد بر اساس تحلیل شما چیست؟
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTk1NTMzLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIxOTk3MTc0NCwtMzMyNDU1MzYzXX0=
 -->
